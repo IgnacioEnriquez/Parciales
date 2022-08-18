@@ -1,0 +1,3 @@
+{"nombre":"Sarandi","pais":"Argentina","id":12,"poblacion":-1,"pathFoto":null},
+{"nombre":"Miramar","pais":"Argentina","id":0,"poblacion":-1,"pathFoto":null},
+{"nombre":"Lomas De Zamora","pais":"Argentina","id":16,"poblacion":-1,"pathFoto":null},
